@@ -27,7 +27,3 @@ I am a first-year B.Tech Computer Science student at VIT Bhopal University. I am
 - Learn coding and work on real-world projects
 - Gain technical knowledge over the next four years
 
----
-
-## Contact
-Email: sakshi.25bce11287@vitbhopal.ac.in
