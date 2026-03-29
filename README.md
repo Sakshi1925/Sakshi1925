@@ -1,6 +1,5 @@
 # Hi,I'm Sakshi Singh
-B.Tech Computer Science Student at VIT Bhopal University
-First Year (2025–2029)
+B.Tech Computer Science Student at VIT Bhopal University, First Year (2025–2029)
 
 ---
 
