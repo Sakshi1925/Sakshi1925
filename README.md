@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi,I'm Sakshi Singh
+B.Tech Computer Science Student at VIT Bhopal University
+First Year (2025–2029)
 
-<!--
-**Sakshi1925/Sakshi1925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
+I am a first-year B.Tech Computer Science student at VIT Bhopal University. I am interested in learning programming, improving my problem-solving skills, and exploring different areas of technology. I aim to build a strong foundation in computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Basic Programming Knowledge
+- Problem Solving
+
+---
+
+## Current Focus
+- Learning programming fundamentals
+- Understanding Git and GitHub
+- Building small projects
+- Improving coding skills
+
+---
+
+## Goals
+- Improve my problem-solving skills
+- Learn coding and work on real-world projects
+- Gain technical knowledge over the next four years
+
+---
+
+## Contact
+Email: sakshi.25bce11287@vitbhopal.ac.in
